@@ -227,5 +227,10 @@ for(i=0; i < colors.length; i++){
     git add (name)(or just . which will add everything)
     git commit -m (message)
     copy lines from github
+
+    following commits
+    git add . 
+    git commit -m "add changes"
+    git push
 */
 

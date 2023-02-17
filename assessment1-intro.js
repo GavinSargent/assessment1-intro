@@ -225,5 +225,7 @@ for(i=0; i < colors.length; i++){
     check directory
     git init
     git add (name)(or just . which will add everything)
+    git commit -m (message)
+    copy lines from github
 */
 
